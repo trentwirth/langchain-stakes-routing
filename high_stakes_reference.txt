@@ -1,0 +1,176 @@
+emergency
+urgent
+bleeding
+seizure
+stroke
+chest pain
+difficulty breathing
+can’t breathe
+fainting
+heart attack
+shortness of breath
+confused
+dizzy
+sudden collapse
+blurry vision
+unresponsive
+severe headache
+rash with fever
+vomiting blood
+blood in stool
+blood in urine
+trouble speaking
+slurred speech
+loss of consciousness
+numbness
+paralysis
+fast heartbeat
+panic attack
+can’t move
+can’t speak
+pregnancy complication
+miscarriage
+abdominal pain
+appendicitis
+ectopic pregnancy
+stabbing pain
+open fracture
+bone exposed
+severe burn
+allergic reaction
+swelling
+anaphylaxis
+poisoning
+drug overdose
+ingested chemicals
+toxic
+unconscious
+suicidal
+want to die
+self-harm
+cutting
+jump off bridge
+kill myself
+I hate being alive
+I wish I were dead
+mental breakdown
+hearing voices
+can’t stop crying
+manic episode
+paranoid
+depressed
+no will to live
+psychosis
+hallucinations
+abuse
+domestic violence
+he hit me
+she hit me
+I’m scared of him
+he won’t let me leave
+threatened
+child abuse
+child hurt
+my kid is injured
+my child is missing
+baby stopped breathing
+baby choking
+suffocating
+choked
+near drowning
+burned
+electric shock
+accident
+car crash
+collision
+trauma
+gunshot
+stabbing
+assault
+rape
+molested
+sexual assault
+robbery
+break-in
+stolen
+mugged
+blackmailed
+stalking
+being followed
+police
+fire
+fire in building
+explosion
+gas leak
+flood
+earthquake
+tornado
+natural disaster
+evacuate
+trapped
+collapsed
+ceiling collapse
+hostage
+shooting
+gunfire
+active shooter
+weapon
+knife
+bomb
+threat
+danger
+imminent danger
+help me
+call 911
+call emergency services
+doctor now
+hospital
+emergency room
+urgent care
+ICU
+critical
+life-threatening
+serious
+not breathing
+injured
+trauma center
+EMS
+ambulance
+paramedics
+can’t wake up
+incoherent
+delirious
+passed out
+dying
+can’t feel my legs
+can’t see
+hallucinating
+panic
+terror
+scared
+frightened
+afraid
+in pain
+hurting
+pain scale 10
+unbearable pain
+massive blood loss
+burned skin
+exposed bone
+fever over 104
+shock
+freezing
+hypothermia
+heat stroke
+dehydrated
+can't swallow
+choking hazard
+cyanosis
+skin turning blue
+sudden swelling
+tight chest
+labored breathing
+diabetic coma
+hypoglycemia
+severe allergic reaction
+difficulty swallowing
