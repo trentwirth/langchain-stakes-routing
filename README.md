@@ -13,10 +13,13 @@ This approach demonstrates how context-aware prompt routing can adapt the level 
 ## Results
 
 ========================
-User Prompt: My vision is blacking out in one eye, what should I do?
+
+`User Prompt:` My vision is blacking out in one eye, what should I do?
+
 🔴 High-Stakes Prompt (Score: 0.4668)
 
-🧠 Response:
+🧠 `Response:`
+
 1. This situation may be serious and potentially life-threatening. 
 2. Please seek immediate medical attention by calling 911 or going to the nearest emergency room.
 3. Sudden vision loss or blacking out in one eye could be a sign of a serious condition such as a retinal detachment, stroke, or acute glaucoma. Prompt medical evaluation is crucial to determine the cause and prevent further complications.
@@ -24,10 +27,13 @@ User Prompt: My vision is blacking out in one eye, what should I do?
 For more information, please visit the American Academy of Ophthalmology's website: https://www.aao.org/eye-health/tips-prevention/sudden-vision-loss
 
 ========================
-User Prompt: I hit my head and now I feel dizzy and nauseous. Should I go to the hospital?
+
+`User Prompt:` I hit my head and now I feel dizzy and nauseous. Should I go to the hospital?
+
 🔴 High-Stakes Prompt (Score: 0.4279)
 
-🧠 Response:
+🧠 `Response:`
+
 1. This situation sounds serious and potentially life-threatening.
 2. You should go to the hospital immediately.
 3. Head injuries can result in serious complications such as bleeding in the brain, which can be life-threatening if not treated promptly. Symptoms like dizziness and nausea after hitting your head are concerning and should not be ignored.
@@ -35,10 +41,13 @@ User Prompt: I hit my head and now I feel dizzy and nauseous. Should I go to the
 For further guidance, you can visit the Mayo Clinic's page on head injuries: https://www.mayoclinic.org/diseases-conditions/concussion/symptoms-causes/syc-20355594
 
 ========================
-User Prompt: Explain Uno
+
+`User Prompt:` Explain Uno
+
 ⚪ Low-Stakes Prompt (Score: 0.6436)
 
-🧠 Response:
+🧠 `Response:`
+
 Uno is a classic card game that is easy to learn and fun to play with friends and family. The objective of the game is to be the first player to get rid of all your cards. 
 
 To start the game, each player is dealt seven cards. The remaining cards are placed in the center of the table face down to form a draw pile. The top card is then turned over to create a discard pile.
@@ -48,6 +57,7 @@ Players take turns matching a card from their hand to the top card on the discar
 There are also special action cards in Uno that can change the direction of play, force the next player to draw cards, or even skip a player's turn. The game continues until one player has no cards left and is declared the winner.
 
 Uno is a great game for all ages and is perfect for parties or game nights. It's easy to learn, but the strategy and excitement of the game keep players coming back for more.
+
 ========================
 
 ## Reflection
